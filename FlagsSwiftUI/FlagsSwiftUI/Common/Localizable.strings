@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  FlagsSwiftUI
+
+  Created by Justus Aype Jose on 10/07/23.
+  
+*/
+
+"placeholderCountry" = "Country Name";
+"placeholderCapital" = "Capital";
+"placeholderCurrency" = "Currency Unknown";
+"placeholderLanguage" = "Language Unknown";
+
+"titleCountry" = "Country :";
+"titleLanguages" = "Languages :";
+"titleCurrencies" = "Currencies :";
+"titleCapital" = "Capital :";
+"titlePopulation" = "Population :";
+
+"navigationTitleFlagDetails" = "Flag Details";
+"navigationTitleCountriesList" = "Countries";
+"navigationTitleCountriesSwipe" = "Country Swipe";
